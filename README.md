@@ -21,5 +21,5 @@ This is an advanced AI assistant built using Gemini 1.5 Flash (04-17 Preview), c
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/ai-assistant-gemini.git
+git clone https://github.com/Arjun7462/AI_assistant_backend
 cd ai-assistant-gemini
